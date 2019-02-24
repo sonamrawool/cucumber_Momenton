@@ -2,8 +2,7 @@
 Automation test Project for Momenton with selenium and cucumber.
 
 # software needed
-Eclipse
-Maven
+Eclipse , Maven
 
 
 # how to Run test case
@@ -13,4 +12,6 @@ Run RunnerTest.java place at (cucumber-sonam\cucu-new\cucumber_Momenton\src\test
 # Feature File
 feature file TestScenario.Feature is placed at (cucumber-sonam\cucu-new\cucumber_Momenton\src\test\resources\TestScenario.Feature )
 
+# Test evidences will be Auto-generated at.
+cucumber_Momenton\target\screenshot
 
